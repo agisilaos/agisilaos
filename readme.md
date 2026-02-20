@@ -28,7 +28,7 @@ I build end-to-end — from idea to shipping to iteration.
 
 ## 🚀 Apple Platform Projects
 
-- 📱 **[[Subsmind](https://subsmind.app/)**: Subscription tracking app for Apple platforms.
+- 📱 **[Subsmind](https://subsmind.app/)**: Subscription tracking app for Apple platforms.
 
 ---
 
