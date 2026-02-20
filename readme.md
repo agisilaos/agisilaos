@@ -30,8 +30,6 @@ I build end-to-end — from idea to shipping to iteration.
 
 - 📱 **[Subsmind](https://subsmind.app/)**: Subscription tracking app for Apple platforms.
 
----
-
 - 🎨 **[ColorKit](https://github.com/agisilaos/ColorKit)**: Swift library for advanced color manipulation and accessibility-aware palette generation.
 
 ---
