@@ -50,6 +50,8 @@ Terminal-first tooling for modern workflows.
 
 - 🧾 **[notion-expenses-cli](https://github.com/agisilaos/notion-expenses-cli)**: Import transactions into Notion using a Go-based CLI.
 
+- ✈️ **[gflight](https://github.com/agisilaos/gflight)**: Search Google Flights, create price watches, and notify via terminal/email/webhooks.
+
 Focused on:
 - Clear UX in the terminal  
 - Structured output (JSON-friendly)  
