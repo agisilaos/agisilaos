@@ -44,6 +44,8 @@ Terminal-first tooling for modern workflows.
 
 - 🎧 **[pocketcastsctl](https://github.com/agisilaos/pocketcastsctl)**: Control Pocket Casts directly from the terminal.
 
+- 🛠️ **[xctide](https://github.com/agisilaos/xctide)**: Human-first CLI wrapper for `xcodebuild` with clean build/run UX and machine-readable output.
+
 - 🔐 **[protonmailcli](https://github.com/agisilaos/protonmailcli)**: Minimal ProtonMail interaction via CLI.
 
 - ✅ **[todoist-cli](https://github.com/agisilaos/todoist-cli)**: Manage Todoist tasks directly from the terminal.
